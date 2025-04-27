@@ -4,7 +4,11 @@ Hello Technocratz! We proudly present the Smart Doorbell with LCD Counter and Cl
 
 The Smart Doorbell with LCD Counter and Click History is an innovative solution aimed at enhancing the functionality of traditional doorbells. With the integration of an LCD counter and click history feature, this doorbell not only serves as a communication tool but also provides valuable insights into its usage. The doorbell tracks the number of times it is pressed throughout the day, logs the date and time of each click, and displays this information on an LCD screen. This helps users keep track of visits, improves home security by offering a record of interactions, and adds a modern technological touch to home entry systems.
 
-Here’s is the Video Demo of the project: https://youtu.be/9KLM3eui5tk
+
+
+Here’s is the Video Demo of our Project: https://youtu.be/9KLM3eui5tk
+
+
 
 
 Let’s move on to how it’s working. The Smart Doorbell system is designed to detect, record, display, and store information every time someone presses the doorbell.
