@@ -2,7 +2,7 @@
 
 Here’s a demo of the project:
 
-[Click to view the Video of Project Demo](https://youtu.be/9KLM3eui5tk)
+[Click to view the Video of Demo of our Project](https://youtu.be/9KLM3eui5tk)
 
 
 Hello Technocratz! We proudly present the Smart Doorbell with LCD Counter and Click History.
