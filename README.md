@@ -1,5 +1,10 @@
 # -DingDong-Done-Test-Doorbell-Counter-Track 
 
+Here’s a demo of the project:
+
+[Watch the Video](https://youtu.be/9KLM3eui5tk)
+
+
 Hello Technocratz! We proudly present the Smart Doorbell with LCD Counter and Click History.
 
 The Smart Doorbell with LCD Counter and Click History is an innovative solution aimed at enhancing the functionality of traditional doorbells. With the integration of an LCD counter and click history feature, this doorbell not only serves as a communication tool but also provides valuable insights into its usage. The doorbell tracks the number of times it is pressed throughout the day, logs the date and time of each click, and displays this information on an LCD screen. This helps users keep track of visits, improves home security by offering a record of interactions, and adds a modern technological touch to home entry systems.
