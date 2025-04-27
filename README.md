@@ -6,7 +6,7 @@ The Smart Doorbell with LCD Counter and Click History is an innovative solution 
 
 
 
-Here’s is the Video Demo of our Project: https://youtu.be/9KLM3eui5tk
+Here is the Video Demo of our Project: https://youtu.be/9KLM3eui5tk
 
 
 
