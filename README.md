@@ -6,7 +6,7 @@ The Smart Doorbell with LCD Counter and Click History is an innovative solution 
 
 Here’s a demo of the project uploaded in Youtube:
 
-[Click to view the Video of Demo of our Project](https://youtu.be/9KLM3eui5tk)
+[Click to view the Demo Video of our Project](https://youtu.be/9KLM3eui5tk)
 
 
 Let’s move on to how it’s working. The Smart Doorbell system is designed to detect, record, display, and store information every time someone presses the doorbell.
